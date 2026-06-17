@@ -1,1 +1,2 @@
-# Javascript---Requerimientos-Asincronos
+# Javascript - Requerimientos Asíncronos
+Jared Selim Beltran Martinez
